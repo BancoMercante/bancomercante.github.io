@@ -13,5 +13,6 @@ Gemfile.lock
 *.gem
 
 # Others
-.github
+.github/
+Gemfile
 Gemfile.lock
