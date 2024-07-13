@@ -6,4 +6,4 @@ permalink: /contact
 
 # Get in touch?
 
-Send us an email: contact@bancomercante.com
+Send us an email at: <contact@bancomercante.com>
