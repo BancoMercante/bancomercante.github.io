@@ -1,15 +1,19 @@
-# Example Site settings
-
-#google_analytics: UA-NNNNNNNN-N
+title: Banco Mercante
+descripton: ""
+url: "bancomercante.github.io"
 
 header_pages:
   - index.md
   - about.md
+  - contact.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+remote_theme: b2a3e8/jekyll-theme-console
 
 style: light # dark (default) or light
-listen_for_clients_preferred_style: true # true or false (default)
+
+# footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+
+# google_analytics: UA-NNNNNNNN-N
 
 plugins:
   - jekyll-seo-tag
