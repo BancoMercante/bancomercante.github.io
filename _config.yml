@@ -4,6 +4,7 @@ url: "bancomercante.github.io"
 
 header_pages:
   - index.md
+  - services.md
   - about.md
   - contact.md
 
@@ -11,9 +12,9 @@ remote_theme: b2a3e8/jekyll-theme-console
 
 style: light # dark (default) or light
 
-# footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
-
-# google_analytics: UA-NNNNNNNN-N
+footer: 'Banco Mercante | All rights reserved'
 
 plugins:
   - jekyll-seo-tag
+
+# google_analytics: UA-NNNNNNNN-N
