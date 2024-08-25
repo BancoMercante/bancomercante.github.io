@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Paving the path"
-date:   2024-07-07 12:32:45 +0100
+title: "Paving the path"
+date: 2024-07-07 12:32:45 +0100
 categories:
 ---
 
