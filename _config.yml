@@ -1,7 +1,7 @@
 title: Banco Mercante
 descripton: ""
 url: "bancomercante.com"
-header: logo.png
+header: images/logo.png
 
 header_pages:
   - index.md
