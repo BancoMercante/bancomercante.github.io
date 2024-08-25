@@ -1,7 +1,7 @@
 ---
 layout: page
 title: /services
-permalink: /services/
+permalink: /services
 ---
 
 # Over The Counter
