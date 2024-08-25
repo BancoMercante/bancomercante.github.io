@@ -1,7 +1,7 @@
 ---
 title: /home
-layout: default
-permalink: /
+layout: home
+permalink:
 ---
 
 # Opening New Banking Rails
