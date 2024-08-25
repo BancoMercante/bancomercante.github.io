@@ -10,7 +10,7 @@ Fiat-Crypto, Crypto-Crypto, and Crypto-Fiat Transactions. Facilitating large-sca
 
 # Escrow accounts
 
-Secure escrow services providing financial support for international trade transactions as Real State, M&A deals and other import-export international transactions.
+Secure escrow services providing financial support for international trade transactions as Real Estate, M&A deals and other import-export international transactions.
 
 # Collateralized Crypto Financing
 
