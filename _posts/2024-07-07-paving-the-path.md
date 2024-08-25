@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Paving the path"
 date: 2024-07-07
 categories: post
