@@ -4,7 +4,7 @@ title: /services
 permalink: /services/
 ---
 
-# Over the Conter
+# Over The Counter
 
 Fiat-Crypto, Crypto-Crypto, and Crypto-Fiat transactions. Facilitating large-scale exchanges and high-volume transactions secured by strong compliant processes.
 
