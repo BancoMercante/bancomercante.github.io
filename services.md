@@ -4,9 +4,13 @@ title: /services
 permalink: /services/
 ---
 
-# Remmitances
+# Over the Conter
 
-Fiat-Crypto, Crypto-Crypto, and Crypto-Fiat Transactions. Facilitating large-scale currency exchanges and high volume transactions with strong compliant processes.
+Fiat-Crypto, Crypto-Crypto, and Crypto-Fiat transactions. Facilitating large-scale exchanges and high-volume transactions secured by strong compliant processes.
+
+# Remittances
+
+Send abroad or pay with your Crypto and Fiat with full control over timing and rates.
 
 # Escrow accounts
 
