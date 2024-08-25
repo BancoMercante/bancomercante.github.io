@@ -32,6 +32,18 @@ header p { text-align: left;  margin: 0; }
 footer { margin-bottom: 20px; }
 
 /**
+ * Header logo
+ */
+
+.logo { 
+    width: 100px;  /* Adjust the width as needed */ 
+    height: auto;  /* Maintain aspect ratio */ 
+    position: absolute; /* Positioning the logo */ 
+    top: 0; 
+    left: 0; 
+}
+
+/**
  * Highlight/Markup
  */
 ::selection { background: var(--selection-background);  color: var(--selection-text); }
