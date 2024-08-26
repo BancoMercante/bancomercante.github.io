@@ -12,7 +12,7 @@ remote_theme: b2a3e8/jekyll-theme-console
 
 style: light # dark (default) or light
 
-footer: 'Class A Banking Licence No: RFSA-003-2024 | All rights reserved'
+footer: 'Class A Banking License No: RFSA-003-2024 | All rights reserved'
 
 plugins:
   - jekyll-seo-tag
