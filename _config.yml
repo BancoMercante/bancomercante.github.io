@@ -5,7 +5,6 @@ url: "https://bancomercante.com/"
 header_pages:
   - index.md
   - services.md
-  - about.md
   - contact.md
 
 remote_theme: b2a3e8/jekyll-theme-console
