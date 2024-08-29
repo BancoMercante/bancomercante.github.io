@@ -6,8 +6,8 @@ permalink: /
 
 # The New Banking Rails
 
-Banco Mercante was founded to revolutionize merchant banking by leveraging cutting-edge blockchain technology and crypto assets. Our mission is to provide seamless and secure financial services for global trade and crypto transactions.
+Banco Mercante was founded to revolutionize merchant banking by leveraging cutting-edge blockchain technology and crypto assets. 
 
-Our value proposition strategy is based on achieving sustainable growth, building strong customer relationships, and maintaining solid compliance in a dynamic regulatory environment.
+Our mission is to provide seamless and secure financial services for global trade and crypto transactions. And the value proposition strategy is based on achieving sustainable growth, building strong customer relationships, and maintaining solid compliance in a dynamic regulatory environment.
 
 # Posts & News:
